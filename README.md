@@ -32,8 +32,8 @@ Kroz rad sam obradio:
 | Materijal | PLA |
 
 ## Slike
-![Replika, pogled 1](images/ak1.jpg)
-![Replika, pogled 2](images/ak2.jpg)
+![Replika, pogled 1](ak1.jpg)
+![Replika, pogled 2](ak2.jpg)
 
 ## Što sam naučio
 - projektiranje sklopa od više dijelova za FDM printanje
@@ -42,7 +42,7 @@ Kroz rad sam obradio:
 - postprocesiranje ispisanih dijelova
 
 ## Dokumentacija
-- 📄 [Završni rad (PDF)](docs/zavrsni_rad_luka.pdf)
+- 📄 [Završni rad (PDF)](zavrsni_rad_luka.pdf)
 
 ## Autor
 **Luka Spudić**, 4.AT, Tehnička škola Karlovac
