@@ -32,8 +32,8 @@ Kroz rad sam obradio:
 | Materijal | PLA |
 
 ## Slike
-![Replika, pogled 1](images/replika-1.jpg)
-![Replika, pogled 2](images/replika-2.jpg)
+![Replika, pogled 1](images/ak1jpg)
+![Replika, pogled 2](images/ak2.jpg)
 
 ## Što sam naučio
 - projektiranje sklopa od više dijelova za FDM printanje
