@@ -32,7 +32,7 @@ Kroz rad sam obradio:
 | Materijal | PLA |
 
 ## Slike
-![Replika, pogled 1](images/ak1jpg)
+![Replika, pogled 1](images/ak1.jpg)
 ![Replika, pogled 2](images/ak2.jpg)
 
 ## Što sam naučio
