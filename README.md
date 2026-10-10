@@ -17,7 +17,7 @@ Kroz rad sam obradio:
 - utjecaj parametara printanja na kvalitetu dijelova
 
 ## Proces izrade
-1. **Modeliranje** u CAD-u: `<npr. Fusion 360>`
+1. **Modeliranje** u CAD-u: Catia
 2. **Priprema za ispis** u Bambu Studiju (slicing, orijentacija dijelova, potpore)
 3. **Printanje** na Bambu Lab X1 Carbon (FDM, radni prostor 256×256×256 mm)
 4. **Obrada i sastavljanje**: `<brušenje, bojanje, spajanje>`
